@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "DocMeet",
-  description: "A Health-Care Management System",
+  title: "PH-Health-Care",
+  description: "A healthcare application built with Next.js",
 };
 
 export default function RootLayout({
